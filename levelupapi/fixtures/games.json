@@ -1,0 +1,36 @@
+[{
+    "model": "levelupapi.game",
+    "pk": 1,
+    "fields": {
+        "game_type": 1,
+        "title": "Monopoly",
+        "maker": "Hasbro",
+        "gamer": 1,
+        "number_of_players": 10,
+        "skill_level": 7
+    }
+},
+{
+    "model": "levelupapi.game",
+    "pk": 2,
+    "fields": {
+        "game_type": 2,
+        "title": "Vampire: The Masquerade",
+        "maker": "White Wolf, Inc.",
+        "gamer": 1,
+        "number_of_players": 5,
+        "skill_level": 8
+    }
+},
+{
+    "model": "levelupapi.game",
+    "pk": 3,
+    "fields": {
+        "game_type": 3,
+        "title": "Final Fantasy XIV",
+        "maker": "Square Enix",
+        "gamer": 1,
+        "number_of_players": 3400000,
+        "skill_level": 9
+    }
+}]

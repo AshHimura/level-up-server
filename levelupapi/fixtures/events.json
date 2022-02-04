@@ -1,0 +1,36 @@
+[{
+    "model": "levelupapi.event",
+    "pk": 1,
+    "fields": {
+        "game": 1,
+        "description": "Ready to have fun with real estate? come play monopoly with us!",
+        "date": "2022-02-14",
+        "time": "13:45:00",
+        "organizer": 1,
+        "attendees": [1]
+    }
+},
+{
+    "model": "levelupapi.event",
+    "pk": 2,
+    "fields": {
+        "game": 2,
+        "description": "Still a better love story than Twilight",
+        "date": "2022-02-14",
+        "time": "13:45:00",
+        "organizer": 1,
+        "attendees": [1]
+    }
+},
+{
+    "model": "levelupapi.event",
+    "pk": 3,
+    "fields": {
+        "game": 3,
+        "description": "Immerse yourself in an online world that was cool before Sword Art Online was a thing!",
+        "date": "2022-02-14",
+        "time": "13:45:00",
+        "organizer": 1,
+        "attendees": [1]
+    }
+}]
